@@ -13,7 +13,8 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago-A-Gomes_icons=true&bg_color=00000000)
+ <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api?username=Thiago-A-Gomes&_icons=true&theme=dark"/>
+  <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-A-Gomes&layout=compact&theme=dark"/>
 
 ##
 
