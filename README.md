@@ -13,7 +13,7 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Thiago-A-Gomes=anuraghazra&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Thiago.A.Gomes=anuraghazra&show_icons=true&bg_color=00000000)
 
 ##
 
