@@ -2,7 +2,6 @@
 
  - Segundo semestre ADS (Análise e desenvolvimento de sistemas)👨🏿‍💻
  - Habilidades👇🏿👇🏿
- - Sons e imagens
  - CSS
  - Conhecimentos em Hardware
  - Edições de víde
