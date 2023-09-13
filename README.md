@@ -4,7 +4,7 @@
  - Habilidades👇🏿👇🏿
  - CSS
  - Conhecimentos em Hardware
- - Edições de víde
+ - Edições de vídeo
  - Javascript
  - Scrum
  - Php
