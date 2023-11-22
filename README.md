@@ -7,9 +7,8 @@
  - Edições de vídeo
  - Javascript
  - Scrum
- - Php
  - Suporte tecnico
- - c++
+   
 
 ##
 
