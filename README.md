@@ -1,9 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d3b66,1b66a4,3b9edd&height=200&section=header&text=Thiago%20Gomes&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Suporte%20de%20TI%20%7C%20Desenvolvedor%20Full-Stack&descSize=16&descColor=a8cceb&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d3b66,1b66a4,3b9edd&height=200&section=header&text=Thiago%20Gomes&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Field%20Support%20Analyst%20%7C%20Full-Stack%20Developer&descSize=16&descColor=a8cceb&descAlignY=55&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ADS-CEUNSP-1b66a4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Itu--SP-Brasil-22c55e?style=flat-square" />
-  <img src="https://img.shields.io/badge/Foco-Full--Stack-d4712a?style=flat-square" />
+  <img src="https://img.shields.io/badge/ADS-CEUNSP_(Formado)-1b66a4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Salto--SP-Brasil-22c55e?style=flat-square" />
+  <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AZ--104-Azure_Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 </p>
 
 <p align="center">
@@ -24,13 +25,41 @@
 
 ```yaml
 nome: Thiago Aparecido Gomes
-formacao: Analise e Desenvolvimento de Sistemas — CEUNSP
-atuacao: Suporte de TI em MSP (construcao civil e investimentos)
-diferencial: Desenvolvo solucoes internas do zero — do requisito ao deploy em producao
-localizacao: Itu - SP
+formacao: Bacharel em Analise e Desenvolvimento de Sistemas — CEUNSP
+cargo: Analista de Suporte de Campo Junior III — Infomatic
+experiencia_anterior: Estagiario de TI — John Deere BR
+localizacao: Salto - SP
+idiomas: [Portugues (nativo), Ingles (corporativo), Espanhol (intermediario)]
 ```
 
-Formado em **Analise e Desenvolvimento de Sistemas** pela CEUNSP. Trabalho com suporte de TI em uma MSP atendendo empresas do setor de construcao civil e investimentos, onde tambem desenvolvo aplicacoes web internas que resolvem problemas reais do dia a dia — integrando ERPs, autenticacao corporativa e deploy automatizado.
+Formado em **Analise e Desenvolvimento de Sistemas** pela CEUNSP. Atuo como Analista de Suporte de Campo em uma MSP atendendo empresas do setor de construcao civil e investimentos. Alem do suporte, desenvolvo aplicacoes web internas do zero — do levantamento de requisitos ao deploy em producao, integrando ERPs, autenticacao corporativa e CI/CD automatizado.
+
+Passei pela **John Deere BR** como estagiario de TI, onde trabalhei com suporte a sistemas, integracao entre plataformas, automacao de rotinas e metodologias ageis (Scrum/Kanban).
+
+---
+
+### Experiencia
+
+<table>
+<tr>
+<td width="80" align="center">
+  <img src="https://img.shields.io/badge/2025-Atual-1b66a4?style=flat-square" />
+</td>
+<td>
+  <strong>Analista de Suporte de Campo Junior III</strong> — Infomatic<br>
+  <sub>Suporte analitico, administracao Office 365, Windows Server, Azure, monitoramento Ncentral/3CX, manutencao de hardware, redes e telecomunicacoes</sub>
+</td>
+</tr>
+<tr>
+<td width="80" align="center">
+  <img src="https://img.shields.io/badge/2023-2024-6b7080?style=flat-square" />
+</td>
+<td>
+  <strong>Estagiario de TI</strong> — John Deere BR<br>
+  <sub>Suporte a sistemas, integracao entre plataformas, automacao (JavaScript, Python, PL/SQL, Shell Script), documentacao tecnica, backup/restore, Scrum e Kanban</sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -61,7 +90,7 @@ Formado em **Analise e Desenvolvimento de Sistemas** pela CEUNSP. Trabalho com s
 ### Tecnologias e ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,html,css,sqlite,docker,azure,git,linux,vite,powershell,vscode,github&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,html,css,sqlite,docker,azure,aws,gcp,git,linux,powershell,vscode,github,postgres,mysql&perline=10&theme=dark" />
 </p>
 
 ---
@@ -70,28 +99,53 @@ Formado em **Analise e Desenvolvimento de Sistemas** pela CEUNSP. Trabalho com s
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
 **Desenvolvimento**
-- Aplicacoes web full-stack (React + Node.js)
+- Aplicacoes web full-stack
+- React + TypeScript + Node.js
 - Integracoes com ERPs e APIs REST
-- Autenticacao corporativa (Azure AD / MSAL)
+- Autenticacao corporativa (Azure AD)
 - CI/CD com Docker + GitHub Actions
-- Bancos de dados (SQLite, SQL)
+- Bancos: SQLite, PostgreSQL, MySQL, Oracle, SQL Server
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
-**Infraestrutura e Suporte**
-- Administracao Microsoft 365
-- Gerenciamento de servidores Linux
-- Deploy e containers Docker
-- Troubleshooting de hardware e rede
-- Automacao com PowerShell e Python
+**Infraestrutura e Cloud**
+- Microsoft Azure (AZ-900 + AZ-104)
+- AWS e Google Cloud
+- Administracao Office 365
+- Windows Server
+- Servidores Linux
+- Containers Docker
+
+</td>
+<td width="33%" valign="top">
+
+**Suporte e Redes**
+- Monitoramento Ncentral / 3CX
+- Telecomunicacoes e redes
+- Manutencao de hardware
+- Automacao PowerShell e Python
+- Troubleshooting avancado
+- Documentacao tecnica
 
 </td>
 </tr>
 </table>
+
+---
+
+### Certificacoes
+
+<p>
+  <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AZ--104-Azure_Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-RPA_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Front--End-HTML_CSS_JS-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/OKR-Methodology-22c55e?style=for-the-badge" />
+</p>
 
 ---
 
