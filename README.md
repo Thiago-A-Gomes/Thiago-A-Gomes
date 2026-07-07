@@ -28,7 +28,7 @@ nome: Thiago Aparecido Gomes
 formacao: Bacharel em Analise e Desenvolvimento de Sistemas — CEUNSP
 cargo: Analista de Suporte Junior
 experiencia_anterior: Estagiario de TI — John Deere BR
-localizacao: Salto de Pirapora - SP
+localizacao: Salto SP
 idiomas: [Portugues (nativo), Ingles (corporativo), Espanhol (intermediario)]
 ```
 
