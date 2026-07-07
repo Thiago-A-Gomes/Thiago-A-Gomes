@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/ADS-CEUNSP_(Formado)-1b66a4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Salto_de_Pirapora--SP-Brasil-22c55e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Salto-SP-Brasil-22c55e?style=flat-square" />
   <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/AZ--104-Azure_Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 </p>
