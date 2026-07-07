@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d3b66,1b66a4,3b9edd&height=200&section=header&text=Thiago%20Gomes&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Field%20Support%20Analyst%20%7C%20Full-Stack%20Developer&descSize=16&descColor=a8cceb&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d3b66,1b66a4,3b9edd&height=200&section=header&text=Thiago%20Gomes&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Analista%20de%20Suporte%20Junior%20%7C%20Dev%20Full-Stack&descSize=16&descColor=a8cceb&descAlignY=55&animation=fadeIn" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/ADS-CEUNSP_(Formado)-1b66a4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Salto--SP-Brasil-22c55e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Salto_de_Pirapora--SP-Brasil-22c55e?style=flat-square" />
   <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/AZ--104-Azure_Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 </p>
@@ -26,13 +26,13 @@
 ```yaml
 nome: Thiago Aparecido Gomes
 formacao: Bacharel em Analise e Desenvolvimento de Sistemas — CEUNSP
-cargo: Analista de Suporte de Campo Junior III — Infomatic
+cargo: Analista de Suporte Junior
 experiencia_anterior: Estagiario de TI — John Deere BR
-localizacao: Salto - SP
+localizacao: Salto de Pirapora - SP
 idiomas: [Portugues (nativo), Ingles (corporativo), Espanhol (intermediario)]
 ```
 
-Formado em **Analise e Desenvolvimento de Sistemas** pela CEUNSP. Atuo como Analista de Suporte de Campo em uma MSP atendendo empresas do setor de construcao civil e investimentos. Alem do suporte, desenvolvo aplicacoes web internas do zero — do levantamento de requisitos ao deploy em producao, integrando ERPs, autenticacao corporativa e CI/CD automatizado.
+Formado em **Analise e Desenvolvimento de Sistemas** pela CEUNSP. Atuo como Analista de Suporte Junior em uma MSP atendendo empresas do setor de construcao civil e investimentos. Alem do suporte, desenvolvo aplicacoes web internas do zero — do levantamento de requisitos ao deploy em producao, integrando ERPs, autenticacao corporativa e CI/CD automatizado.
 
 Passei pela **John Deere BR** como estagiario de TI, onde trabalhei com suporte a sistemas, integracao entre plataformas, automacao de rotinas e metodologias ageis (Scrum/Kanban).
 
@@ -46,7 +46,7 @@ Passei pela **John Deere BR** como estagiario de TI, onde trabalhei com suporte 
   <img src="https://img.shields.io/badge/2025-Atual-1b66a4?style=flat-square" />
 </td>
 <td>
-  <strong>Analista de Suporte de Campo Junior III</strong> — Infomatic<br>
+  <strong>Analista de Suporte Junior</strong><br>
   <sub>Suporte analitico, administracao Office 365, Windows Server, Azure, monitoramento Ncentral/3CX, manutencao de hardware, redes e telecomunicacoes</sub>
 </td>
 </tr>
