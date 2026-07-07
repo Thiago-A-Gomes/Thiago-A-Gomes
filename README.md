@@ -95,7 +95,7 @@ Passei pela **John Deere BR** como estagiario de TI, onde trabalhei com suporte 
 
 ---
 
-### O que eu faco
+### O que eu faço
 
 <table>
 <tr>
