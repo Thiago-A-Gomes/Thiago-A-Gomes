@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d3b66,1b66a4,3b9edd&height=200&section=header&text=Thiago%20Gomes&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Analista%20de%20Suporte%20Junior%20%7C%20Dev%20Full-Stack&descSize=16&descColor=a8cceb&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="./assets/header.svg" alt="Thiago Gomes" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/ADS-CEUNSP_(Formado)-1b66a4?style=flat-square" />
@@ -28,7 +28,7 @@ nome: Thiago Aparecido Gomes
 formacao: Bacharel em Analise e Desenvolvimento de Sistemas — CEUNSP
 cargo: Analista de Suporte Junior
 experiencia_anterior: Estagiario de TI — John Deere BR
-localizacao: Salto SP
+localizacao: Salto - SP
 idiomas: [Portugues (nativo), Ingles (corporativo), Espanhol (intermediario)]
 ```
 
@@ -42,21 +42,21 @@ Passei pela **John Deere BR** como estagiario de TI, onde trabalhei com suporte 
 
 <table>
 <tr>
-<td width="80" align="center">
+<td width="90" align="center">
   <img src="https://img.shields.io/badge/2025-Atual-1b66a4?style=flat-square" />
 </td>
 <td>
   <strong>Analista de Suporte Junior</strong><br>
-  <sub>Suporte analitico, administracao Office 365, Windows Server, Azure, monitoramento Ncentral/3CX, manutencao de hardware, redes e telecomunicacoes</sub>
+  <sub>Suporte analitico, administracao Office 365, Windows Server, Azure, monitoramento Ncentral/3CX, manutencao de hardware, redes e telecomunicacoes. Desenvolvimento de aplicacoes web internas.</sub>
 </td>
 </tr>
 <tr>
-<td width="80" align="center">
+<td width="90" align="center">
   <img src="https://img.shields.io/badge/2023-2024-6b7080?style=flat-square" />
 </td>
 <td>
   <strong>Estagiario de TI</strong> — John Deere BR<br>
-  <sub>Suporte a sistemas, integracao entre plataformas, automacao (JavaScript, Python, PL/SQL, Shell Script), documentacao tecnica, backup/restore, Scrum e Kanban</sub>
+  <sub>Suporte a sistemas, integracao entre plataformas, automacao (JavaScript, Python, PL/SQL, Shell Script), documentacao tecnica, backup/restore, Scrum e Kanban.</sub>
 </td>
 </tr>
 </table>
@@ -66,30 +66,20 @@ Passei pela **John Deere BR** como estagiario de TI, onde trabalhei com suporte 
 ### Projeto em destaque
 
 <a href="https://github.com/Thiago-A-Gomes/Central-de-compras">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thiago-A-Gomes&repo=Central-de-compras&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b9edd&icon_color=3b9edd" />
-</a>
-<a href="https://github.com/Thiago-A-Gomes/Compras-Masotti">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thiago-A-Gomes&repo=Compras-Masotti&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b9edd&icon_color=3b9edd" />
+  <img width="100%" src="./assets/projects.svg" alt="Central de Compras" />
 </a>
 
-> **Central de Compras** — Portal corporativo full-stack que automatiza solicitacoes de compra integradas ao ERP Sienge. Em producao, utilizado ativamente por equipe de cliente.
-
-<p>
-  <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_AD-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sienge_ERP-D4712A?style=flat-square" />
+<p align="center">
+  <a href="https://github.com/Thiago-A-Gomes/Central-de-compras">
+    <img src="https://img.shields.io/badge/Ver_repositorio-1b66a4?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### Tecnologias e ferramentas
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,html,css,sqlite,docker,azure,aws,gcp,git,linux,powershell,vscode,github,postgres,mysql&perline=10&theme=dark" />
 </p>
 
@@ -149,21 +139,8 @@ Passei pela **John Deere BR** como estagiario de TI, onde trabalhei com suporte 
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thiago-A-Gomes&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b9edd&icon_color=3b9edd&ring_color=1b66a4" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-A-Gomes&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b9edd" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-A-Gomes&theme=dark&hide_border=true&background=0d1117&ring=1b66a4&fire=3b9edd&currStreakLabel=3b9edd" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Thiago-A-Gomes&color=1b66a4&style=flat-square&label=Visitas+ao+perfil" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d3b66,1b66a4,3b9edd&height=100&section=footer" />
+<img width="100%" src="./assets/footer.svg" alt="" />

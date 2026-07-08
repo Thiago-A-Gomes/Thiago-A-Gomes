@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" fill="none" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1200" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1b66a4"/>
+      <stop offset="50%" stop-color="#0d3b66"/>
+      <stop offset="100%" stop-color="#081f38"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 40 C 200 10, 400 70, 600 45 C 800 20, 1000 65, 1200 35 L 1200 120 L 0 120 Z" fill="url(#fbg)" opacity="0.6"/>
+  <path d="M0 60 C 250 30, 450 90, 650 60 C 850 35, 1050 80, 1200 55 L 1200 120 L 0 120 Z" fill="url(#fbg)"/>
+  <text x="600" y="102" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="500" fill="#c5ddf0" text-anchor="middle" opacity="0.9">Suporte de TI por profissão · Desenvolvedor por vocação</text>
+</svg>

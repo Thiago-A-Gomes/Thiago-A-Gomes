@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#081f38"/>
+      <stop offset="55%" stop-color="#0d3b66"/>
+      <stop offset="100%" stop-color="#1b66a4"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3b9edd"/>
+      <stop offset="100%" stop-color="#1b66a4"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <circle cx="1050" cy="40" r="200" fill="#ffffff" opacity="0.025"/>
+  <circle cx="150" cy="290" r="160" fill="#ffffff" opacity="0.03"/>
+  <circle cx="720" cy="-60" r="140" fill="#3b9edd" opacity="0.05"/>
+
+  <g opacity="0.12" fill="#7bb8e0">
+    <circle cx="640" cy="60" r="2"/><circle cx="670" cy="60" r="2"/><circle cx="700" cy="60" r="2"/>
+    <circle cx="640" cy="90" r="2"/><circle cx="670" cy="90" r="2"/><circle cx="700" cy="90" r="2"/>
+    <circle cx="640" cy="120" r="2"/><circle cx="670" cy="120" r="2"/><circle cx="700" cy="120" r="2"/>
+  </g>
+
+  <rect x="64" y="92" width="5" height="116" rx="2.5" fill="url(#accent)"/>
+
+  <text x="92" y="108" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#7bb8e0" letter-spacing="4">OLÁ, EU SOU</text>
+
+  <text x="90" y="164" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff">Thiago Gomes</text>
+
+  <text x="92" y="200" font-family="Segoe UI, Arial, sans-serif" font-size="19" fill="#a8cceb">Analista de Suporte Júnior · Desenvolvedor Full-Stack</text>
+
+  <g transform="translate(92, 226)">
+    <path d="M8 0C3.6 0 0 3.6 0 8c0 5.4 8 14 8 14s8-8.6 8-14c0-4.4-3.6-8-8-8zm0 11a3 3 0 110-6 3 3 0 010 6z" fill="#3b9edd"/>
+    <text x="24" y="15" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#7bb8e0">Salto – SP · Brasil</text>
+  </g>
+
+  <g transform="translate(760, 52)">
+    <rect width="376" height="196" rx="12" fill="#0a1826" opacity="0.75"/>
+    <rect width="376" height="196" rx="12" stroke="#3b9edd" stroke-opacity="0.25"/>
+    <rect width="376" height="38" rx="12" fill="#ffffff" opacity="0.05"/>
+    <rect y="26" width="376" height="12" fill="#ffffff" opacity="0.05"/>
+    <circle cx="22" cy="19" r="5.5" fill="#ff5f57"/>
+    <circle cx="42" cy="19" r="5.5" fill="#febc2e"/>
+    <circle cx="62" cy="19" r="5.5" fill="#28c840"/>
+    <text x="188" y="24" font-family="Consolas, monospace" font-size="12" fill="#7bb8e0" opacity="0.7" text-anchor="middle">thiago@dev: ~</text>
+
+    <text x="24" y="70" font-family="Consolas, monospace" font-size="14">
+      <tspan fill="#28c840">$</tspan><tspan fill="#c5ddf0" dx="8">whoami</tspan>
+    </text>
+    <text x="24" y="92" font-family="Consolas, monospace" font-size="14" fill="#7bb8e0">thiago.gomes — suporte + dev</text>
+
+    <text x="24" y="122" font-family="Consolas, monospace" font-size="14">
+      <tspan fill="#28c840">$</tspan><tspan fill="#c5ddf0" dx="8">stack --principal</tspan>
+    </text>
+    <text x="24" y="144" font-family="Consolas, monospace" font-size="14" fill="#7bb8e0">react · node · azure · docker</text>
+
+    <text x="24" y="174" font-family="Consolas, monospace" font-size="14">
+      <tspan fill="#28c840">$</tspan><tspan fill="#c5ddf0" dx="8">status</tspan>
+      <tspan fill="#4ade80" dx="10">● em produção</tspan>
+    </text>
+  </g>
+</svg>

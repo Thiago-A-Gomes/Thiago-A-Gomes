@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 220" fill="none">
+  <defs>
+    <linearGradient id="cardbg" x1="0" y1="0" x2="860" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#12233a"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="858" height="218" rx="14" fill="url(#cardbg)" stroke="#1b66a4" stroke-opacity="0.35"/>
+
+  <rect x="1" y="1" width="6" height="218" rx="3" fill="#3b9edd"/>
+
+  <text x="36" y="48" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#7bb8e0" letter-spacing="2">PROJETO EM DESTAQUE</text>
+
+  <text x="36" y="82" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">Central de Compras</text>
+
+  <g transform="translate(660, 30)">
+    <rect width="164" height="26" rx="13" fill="#22c55e" fill-opacity="0.15"/>
+    <circle cx="18" cy="13" r="4" fill="#22c55e"/>
+    <text x="32" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#4ade80">Em produção</text>
+  </g>
+
+  <text x="36" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#a8cceb">Portal corporativo full-stack que automatiza solicitações de compra</text>
+  <text x="36" y="132" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#a8cceb">integradas ao ERP Sienge — do requisito ao deploy em produção.</text>
+
+  <g font-family="Consolas, monospace" font-size="12" font-weight="600">
+    <g transform="translate(36, 158)">
+      <rect width="86" height="28" rx="6" fill="#61dafb" fill-opacity="0.12" stroke="#61dafb" stroke-opacity="0.3"/>
+      <text x="43" y="18" fill="#61dafb" text-anchor="middle">React 18</text>
+    </g>
+    <g transform="translate(130, 158)">
+      <rect width="94" height="28" rx="6" fill="#3178c6" fill-opacity="0.15" stroke="#3178c6" stroke-opacity="0.4"/>
+      <text x="47" y="18" fill="#6ba6e8" text-anchor="middle">TypeScript</text>
+    </g>
+    <g transform="translate(232, 158)">
+      <rect width="76" height="28" rx="6" fill="#339933" fill-opacity="0.15" stroke="#339933" stroke-opacity="0.4"/>
+      <text x="38" y="18" fill="#5cba5c" text-anchor="middle">Node.js</text>
+    </g>
+    <g transform="translate(316, 158)">
+      <rect width="82" height="28" rx="6" fill="#0078d4" fill-opacity="0.15" stroke="#0078d4" stroke-opacity="0.4"/>
+      <text x="41" y="18" fill="#4d9fe0" text-anchor="middle">Azure AD</text>
+    </g>
+    <g transform="translate(406, 158)">
+      <rect width="72" height="28" rx="6" fill="#003b57" fill-opacity="0.3" stroke="#0a628a" stroke-opacity="0.5"/>
+      <text x="36" y="18" fill="#5ba3c9" text-anchor="middle">SQLite</text>
+    </g>
+    <g transform="translate(486, 158)">
+      <rect width="74" height="28" rx="6" fill="#2496ed" fill-opacity="0.15" stroke="#2496ed" stroke-opacity="0.4"/>
+      <text x="37" y="18" fill="#5fb0f0" text-anchor="middle">Docker</text>
+    </g>
+    <g transform="translate(568, 158)">
+      <rect width="120" height="28" rx="6" fill="#2088ff" fill-opacity="0.12" stroke="#2088ff" stroke-opacity="0.35"/>
+      <text x="60" y="18" fill="#5fa3f5" text-anchor="middle">GitHub Actions</text>
+    </g>
+    <g transform="translate(696, 158)">
+      <rect width="90" height="28" rx="6" fill="#d4712a" fill-opacity="0.15" stroke="#d4712a" stroke-opacity="0.4"/>
+      <text x="45" y="18" fill="#e0965e" text-anchor="middle">Sienge ERP</text>
+    </g>
+  </g>
+</svg>
